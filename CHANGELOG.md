@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-05)
+## Unreleased (2024-07-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`39ecc03`](https://github.com/stdlib-js/stdlib/commit/39ecc037f60bef2fa539739fa3ad4556b09f3918) - **chore:** update package meta data [(#2530)](https://github.com/stdlib-js/stdlib/pull/2530) _(by stdlib-bot, Athan Reines)_
 -   [`457662c`](https://github.com/stdlib-js/stdlib/commit/457662c8e8bcd3ff74edc7d820d882119b40cfbe) - **style:** add linebreak _(by Athan Reines)_
 -   [`82c8ae0`](https://github.com/stdlib-js/stdlib/commit/82c8ae03edea7886ce0f67ca6e1c2a3028ef8fd9) - **feat:** add C implementation for `math/base/special/floor2` _(by Gunj Joshi)_
 
